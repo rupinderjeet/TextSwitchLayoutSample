@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#0000</color>
+
+    <color name="ts_thumb">#FFE</color>
+    <color name="ts_thumb_stroke">#0000</color>
+
+    <color name="ts_track">#F69F</color>
+    <color name="ts_track_off">#CCCC</color>
+
+    <color name="white">#FFF</color>
+
+</resources>

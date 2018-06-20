@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ts_width">80dp</dimen>
+    <dimen name="ts_height">30dp</dimen>
+
+    <dimen name="ts_thumb_width">30dp</dimen>
+    <dimen name="ts_thumb_height">30dp</dimen>
+    <dimen name="ts_thumb_stroke">2dp</dimen>
+
+</resources>

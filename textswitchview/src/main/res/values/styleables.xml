@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextSwitchLayout">
+
+        <attr name="ts_text_on">string</attr>
+        <attr name="ts_text_off">string</attr>
+        <attr name="ts_thumb_color">reference</attr>
+        <attr name="ts_on_track_color">reference</attr>
+        <attr name="ts_off_track_color">reference</attr>
+    </declare-styleable>
+
+</resources>
